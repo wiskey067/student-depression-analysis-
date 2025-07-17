@@ -72,7 +72,7 @@ This project mimics a real-world mental health analytics case study. It demonstr
 ## 📬 Contact
 
 **Arijit Bhattacharjee**  
-Data Analytics Enthusiast | SQL · Excel · Tableau  
+Data Analytics Enthusiast | SQL · Excel · Tableau  · Python
 📫 [LinkedIn](https://www.linkedin.com/in/arijit-bhattacharjee-5132b01a0)  
 💻 [GitHub](https://github.com/wiskey067)
 
